@@ -16,7 +16,7 @@ A fun, interactive number guessing game built with Flask and modern web technolo
 
 ## 🚀 Live Demo
 
-[Coming Soon]
+[Play the Game](https://brainy-guess.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -79,7 +79,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Krishna Kamal Baishnab
 
 ## ⭐️ Show your support
 
